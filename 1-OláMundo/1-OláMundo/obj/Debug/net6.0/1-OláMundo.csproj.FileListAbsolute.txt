@@ -1,0 +1,15 @@
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\bin\Debug\net6.0\1-OláMundo.exe
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\bin\Debug\net6.0\1-OláMundo.deps.json
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\bin\Debug\net6.0\1-OláMundo.runtimeconfig.json
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\bin\Debug\net6.0\1-OláMundo.dll
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\bin\Debug\net6.0\1-OláMundo.pdb
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\obj\Debug\net6.0\1-OláMundo.csproj.AssemblyReference.cache
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\obj\Debug\net6.0\1-OláMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\obj\Debug\net6.0\1-OláMundo.AssemblyInfoInputs.cache
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\obj\Debug\net6.0\1-OláMundo.AssemblyInfo.cs
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\obj\Debug\net6.0\1-OláMundo.csproj.CoreCompileInputs.cache
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\obj\Debug\net6.0\1-OláMundo.dll
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\obj\Debug\net6.0\refint\1-OláMundo.dll
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\obj\Debug\net6.0\1-OláMundo.pdb
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\obj\Debug\net6.0\1-OláMundo.genruntimeconfig.cache
+C:\Users\Joao fred\Desktop\C# Alura\1-OláMundo\1-OláMundo\obj\Debug\net6.0\ref\1-OláMundo.dll
